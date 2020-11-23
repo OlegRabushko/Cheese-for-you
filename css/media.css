@@ -157,7 +157,7 @@
 @media (max-width: 600px){
     .services__item{
         max-width: 100%;
-        min-width: 375px;
+        min-width: 250px;
         margin: 30px auto;
     }
 }
